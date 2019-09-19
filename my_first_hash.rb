@@ -1,5 +1,5 @@
 def my_hash
-  
+  triggers = {"Dante": "devil", "Vergil": "dragon", "Nero": "oni"}
 end
 
 
